@@ -20,7 +20,7 @@ conda activate SimiliarSong
 pip install -r requirements.txt
 ```
 
-## Run Music Recommendation
+## Run Program
 Python
 ```
 python musicRecommendation.py
