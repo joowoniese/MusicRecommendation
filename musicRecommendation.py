@@ -2,7 +2,7 @@ import json
 import numpy as np
 import os
 
-json_file_path = "/home/joowoniese/musiclabeling/music_metadata/music_jsonfiles/merged_music.json"
+json_file_path = "./music_metadata/merged_music.json"
 
 with open(json_file_path, "r") as file:
     data = json.load(file)
