@@ -28,3 +28,8 @@ python musicRecommendation.py
 # Input song name in json file
 # Three similiar song with your song selected will be out
 ```
+
+
+## Sample
+![Architecture](https://github.com/joowoniese/SimiliarSongRecommendation/blob/main/ModelInfo/Screenshot%202024-12-20%20191052.png)
+
