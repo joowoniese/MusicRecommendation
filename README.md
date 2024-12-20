@@ -9,12 +9,12 @@
 Conda
 ```
 # clone project
-git clone https://github.com/joowoniese/MusicRecommendation.git
-cd MusicRecommendation
+git clone https://github.com/joowoniese/SimiliarSongRecommendation.git
+cd SimiliarSongRecommendation
 
 # create conda environment
-conda create -n MuiscRecommendation python==3.9
-conda activate MuiscRecommendation
+conda create -n SimiliarSong python==3.9
+conda activate SimiliarSong
 
 # install packages/librarys
 pip install -r requirements.txt
